@@ -1,6 +1,6 @@
 # File
-#THIS COMMANDS FILE DUMPLING 👑
-#COMMAND ONWER HANNAN-404
+# THIS COMMANDS FILE DUMPLING 👑
+# COMMAND ONWER HANNAN-404
 
-git clone 
+# git clone 
 https://github.com/ALI-JUTT/File/
